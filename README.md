@@ -19,7 +19,7 @@ This GUI-based application allows users to **add**, **view**, **edit**, **delete
 ---
 
 ## 🖼️ Output Preview
-HOME SCREEN | ADD CONTACTS | DELETE CONTACT | EDIT CONTACT |(image.png)
+![HOME SCREEN | ADD CONTACTS | DELETE CONTACT | EDIT CONTACT](image.png)
 
 ## 🛠️ Tech Stack
 
