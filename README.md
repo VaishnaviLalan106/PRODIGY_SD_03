@@ -34,7 +34,7 @@ This GUI-based application allows users to **add**, **view**, **edit**, **delete
 **Vaishnavi Lalan**  
 Aspiring Developer | Intern at Prodigy Infotech  
 🔗 [LinkedIn](www.linkedin.com/in/vaishnavi-lalan-270419310) | 
-🔗 [GitHub](https://github.com/VaishnaviLalan106)
+[GitHub](https://github.com/VaishnaviLalan106)
 
 ---
        
